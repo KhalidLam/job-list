@@ -1,5 +1,5 @@
 ## job-list
-List of all the sites where you can hunt for a developer job. 
+List of all the sites where you can hunt for a developer job.   
 Source : https://twitter.com/RandallKanna/status/1285322775360532480
 
 ## Companies
