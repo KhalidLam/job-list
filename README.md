@@ -17,6 +17,7 @@ Monster | http://monster.com
 Simply Hired | http://simplyhired.com
 Toptal | https://toptal.com
 Hired | https://hired.com
+Standard Resume | https://standardresume.co/remote-jobs/professions/engineering
 FlexJobs | http://flexjobs.com
 WeWorkRemotely | http://weworkremotely.com
 RemoteOk | http://remoteok.io/remote-dev-jobs
